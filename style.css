@@ -1,0 +1,15 @@
+body{background-color: #EBC8A1;}
+h1{font-family: 'Satisfy', cursive;
+	font-size: 38px;}
+h2 {color: #784f3e;
+	font-size: 24px;
+		font-style: italic;}
+h3{color: saddlebrown;}
+a{text-decoration: none;
+	color: brown;}
+a:hover{color: red}
+div{background-color: #F9E4B1;
+	padding: 30px;
+	margin: 50px;
+	border-radius: 10px;
+	box-shadow: 1px 2px 2px 3px brown}
